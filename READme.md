@@ -11,26 +11,24 @@ Clone the repository locally and run the services
 ## Services
 ## queue 
 service with api to add to queue
-`
-endpoint:http://localhost:8090/create-order
-body
 
-{
+[endpoint](http://localhost:8090/create-order)
+
+`{
 "items": [
-{
-"name": "apples",
-"price": 30
-},
-{
-"name": "mango",
-"price": 30
-},
-{
-"name": "banana",
-"price": 30
-}
-
-    ]
+    {
+    "name": "apples",
+    "price": 30
+    },
+    {
+    "name": "mango",
+    "price": 30
+    },
+    {
+    "name": "banana",
+    "price": 30
+    }         
+]
 `
 
 ## consumefromapi
