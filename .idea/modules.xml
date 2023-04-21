@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Rabbit MQ.iml" filepath="$PROJECT_DIR$/.idea/Rabbit MQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumefromapi/consumefromapi.iml" filepath="$PROJECT_DIR$/consumefromapi/consumefromapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queue/queue.iml" filepath="$PROJECT_DIR$/queue/queue.iml" />
+    </modules>
+  </component>
+</project>
